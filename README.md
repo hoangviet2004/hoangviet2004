@@ -55,42 +55,16 @@ I'm a passionate Front-End Developer focused on creating beautiful and functiona
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet2004&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangviet2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
-
-## 🏆 Featured Projects
-
-### [Project Name 1](link-to-repo)
-A responsive web application built with HTML, CSS, and JavaScript featuring [key features].
-
-**Tech Stack:** HTML5 · CSS3 · JavaScript
-
-### [Project Name 2](link-to-repo)
-An interactive website showcasing [project description and main functionality].
-
-**Tech Stack:** HTML5 · CSS3 · JavaScript
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🎯 Goals for 2026
-
-- [ ] Master advanced JavaScript concepts
-- [ ] Build 10+ web projects
-- [ ] Contribute to open-source projects
-- [ ] Learn a modern framework (React/Vue)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views">
