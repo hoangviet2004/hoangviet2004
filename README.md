@@ -60,8 +60,8 @@ When I'm not coding, you can find me playing:
 
 <p align="left">
   <a href="https://steamcommunity.com/profiles/76561198403438661/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
-  <a href="https://tracker.gg/valorant">
-  <img src="https://tracker.gg/lol/profile/riot/%EA%B7%A4Tangerine%2316904/overview?queue=ARAM&season=2025-08-27T17:00:00%2B00:00" alt="Riot Games">
+  <a href="https://tracker.gg/lol/profile/riot/%EA%B7%A4Tangerine%2316904/overview?queue=ARAM&season=2025-08-27T17:00:00%2B00:00">
+  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games">
 </a>
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
