@@ -18,5 +18,5 @@ Here are some ideas to get you started:
   <img src="my-profile.gif" width="100%">
 </p>
 <a href="https://www.facebook.com/hoangviet16092004/">
-    <img src="fb.svg" alt="My facebook">
+    <img src="fb.svg" alt="My facebook" width="40px">
   </a>
