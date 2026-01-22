@@ -86,15 +86,21 @@ When I'm not coding, you can find me playing:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet2004&theme=radical&hide_border=true" alt="GitHub Streak">
 </p> -->
 <!--
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
-</p>
 <!-- GitHub Streak - will show when you have more activity -->
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet2004&theme=radical&hide_border=true" alt="GitHub Streak">
 </p> -->
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangviet2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+</p>
+<!-- GitHub Streak - will show when you have more activity 
+ <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet2004&theme=radical&hide_border=true" alt="GitHub Streak">
+</p> 
 ## 🏆 GitHub Trophies
 
 <p align="center">
