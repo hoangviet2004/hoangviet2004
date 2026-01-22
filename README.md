@@ -79,15 +79,15 @@ When I'm not coding, you can find me playing:
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet2004&theme=radical&hide_border=true" alt="GitHub Streak">
 </p> -->
-
+<!--
 ## 🏆 GitHub Trophies
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hoangviet2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
-</p> -->
+</p> 
 
----
-
+--- 
+ -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hoangviet2004&color=blueviolet&style=flat-square" alt="Profile views">
 </p>
