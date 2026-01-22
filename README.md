@@ -40,6 +40,19 @@ I'm a passionate Front-End Developer focused on creating beautiful and functiona
 - 📫 Reach me at: [quachhoangviet2004@gmail.com]
 - 📍 Location: Hanoi, Vietnam
 
+##🎮 Gaming & Hobbies
+When I'm not coding, you can find me playing:
+<p align="left">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
+</p>
+Favorite Games:
+
+🎯 League of Legend
+🎯 World war Z
+🎯 Palworld
+🎯 Risk of rain 2
 ## 🛠️ Technologies & Tools
 
 <p align="left">
