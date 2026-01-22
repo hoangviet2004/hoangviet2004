@@ -37,21 +37,8 @@ I'm a passionate Front-End Developer focused on creating beautiful and functiona
 - 🌱 Learning: Advanced JavaScript & Modern Web Technologies
 - 👯 Open to collaborate on: Front-End Development Projects
 - 💬 Ask me about: HTML, CSS, JavaScript
-- 📫 Reach me at: [quachhoangviet2004@gmail.com]
+- 📫 Reach me at: quachhoangviet2004@gmail.com
 - 📍 Location: Hanoi, Vietnam
-
-##🎮 Gaming & Hobbies
-When I'm not coding, you can find me playing:
-<p align="left">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
-  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
-</p>
-Favorite Games:
-- 🎯 League of Legend
-- 🎯 World war Z
-- 🎯 Palworld
-- 🎯 Risk of rain 2
 
 ## 🛠️ Technologies & Tools
 
@@ -64,19 +51,42 @@ Favorite Games:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
+## 🎮 Gaming & Hobbies
+
+When I'm not coding, you can find me playing:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation">
+  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
+</p>
+
+**Favorite Games:**
+- 🎯 Game Title 1 - Genre (e.g., FPS, RPG, Strategy)
+- 🎯 Game Title 2 - Genre
+- 🎯 Game Title 3 - Genre
+- 🎯 Game Title 4 - Genre
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoangviet2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangviet2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
+<!-- GitHub Streak - will show when you have more activity -->
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangviet2004&theme=radical&hide_border=true" alt="GitHub Streak">
 </p> -->
 
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangviet2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangviet2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
 </p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hoangviet2004&color=blueviolet&style=flat-square" alt="Profile views">
