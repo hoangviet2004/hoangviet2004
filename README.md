@@ -1,4 +1,3 @@
-## Hi, I am HoangViet
 
 <!--
 **hoangviet2004/hoangviet2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,7 +66,7 @@ I'm a passionate Front-End Developer focused on creating beautiful and functiona
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=hoangviet2004&color=blueviolet&style=flat-square" alt="Profile views">
 </p>
 
 <p align="center">
