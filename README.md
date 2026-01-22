@@ -82,9 +82,9 @@ When I'm not coding, you can find me playing:
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hoangviet2004&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies">
-</p>
+</p> -->
 
 ---
 
