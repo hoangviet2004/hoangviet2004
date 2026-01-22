@@ -17,6 +17,89 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="my-profile.gif" width="100%">
 </p>
-<a href="https://www.facebook.com/hoangviet16092004/">
+
+<h1 align="center">👋 Hi, I'm Hoàng Việt</h1>
+
+<p align="center">
+  <a href="https://www.facebook.com/hoangviet16092004/">
     <img src="fb.svg" alt="My facebook" width="40px">
   </a>
+  <!-- Add more social links if needed -->
+  <!-- <a href="https://linkedin.com/in/yourprofile">
+    <img src="linkedin.svg" alt="LinkedIn" width="40px">
+  </a> -->
+</p>
+
+## 🚀 About Me
+
+I'm a passionate Front-End Developer focused on creating beautiful and functional web experiences. Currently exploring the world of web development and constantly learning new technologies.
+
+- 🔭 Currently working on: Web Development Projects
+- 🌱 Learning: Advanced JavaScript & Modern Web Technologies
+- 👯 Open to collaborate on: Front-End Development Projects
+- 💬 Ask me about: HTML, CSS, JavaScript
+- 📫 Reach me at: [your-email@example.com]
+- 📍 Location: Bạch Mai, Hanoi, Vietnam
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
+
+## 🏆 Featured Projects
+
+### [Project Name 1](link-to-repo)
+A responsive web application built with HTML, CSS, and JavaScript featuring [key features].
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript
+
+### [Project Name 2](link-to-repo)
+An interactive website showcasing [project description and main functionality].
+
+**Tech Stack:** HTML5 · CSS3 · JavaScript
+
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 🎯 Goals for 2026
+
+- [ ] Master advanced JavaScript concepts
+- [ ] Build 10+ web projects
+- [ ] Contribute to open-source projects
+- [ ] Learn a modern framework (React/Vue)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views">
+</p>
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
+
+<p align="center">
+  💙 Thanks for visiting my profile!
+</p>
