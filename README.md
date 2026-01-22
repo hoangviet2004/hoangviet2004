@@ -62,10 +62,10 @@ When I'm not coding, you can find me playing:
 </p>
 
 **Favorite Games:**
-- 🎯 Game Title 1 - Genre (e.g., FPS, RPG, Strategy)
-- 🎯 Game Title 2 - Genre
-- 🎯 Game Title 3 - Genre
-- 🎯 Game Title 4 - Genre
+- 🎯 League of legend
+- 🎯 Palworld
+- 🎯 World war Z
+- 🎯 Risk of rain 2
 
 
 ## 📊 GitHub Stats
