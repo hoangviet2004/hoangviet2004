@@ -37,8 +37,8 @@ I'm a passionate Front-End Developer focused on creating beautiful and functiona
 - 🌱 Learning: Advanced JavaScript & Modern Web Technologies
 - 👯 Open to collaborate on: Front-End Development Projects
 - 💬 Ask me about: HTML, CSS, JavaScript
-- 📫 Reach me at: [your-email@example.com]
-- 📍 Location: Bạch Mai, Hanoi, Vietnam
+- 📫 Reach me at: [quachhoangviet2004@gmail.com]
+- 📍 Location: Hanoi, Vietnam
 
 ## 🛠️ Technologies & Tools
 
