@@ -48,11 +48,11 @@ When I'm not coding, you can find me playing:
   <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox">
 </p>
 Favorite Games:
+- 🎯 League of Legend
+- 🎯 World war Z
+- 🎯 Palworld
+- 🎯 Risk of rain 2
 
-🎯 League of Legend
-🎯 World war Z
-🎯 Palworld
-🎯 Risk of rain 2
 ## 🛠️ Technologies & Tools
 
 <p align="left">
