@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="my-profile.gif" width="100%">
+  <img src="profile.gif" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Hoàng Việt</h1>
